@@ -1,0 +1,9 @@
+{
+  "client_id": "https://rohanlew007.github.io",
+  "client_name": "bb-md-client",
+  "redirect_uris": ["https://db73osgm2iu1s8d2dmbg8o5x6dd9i5wtc.oast.online/md-callback"],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "scope": "openid profile"
+}
