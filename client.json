@@ -11,5 +11,6 @@
  "response_types": [
   "code"
  ],
- "scope": "openid profile"
+ "scope": "openid profile",
+ "jwks_uri": "https://db73osgm2iu1s8d2dmbg8o5x6dd9i5wtc.oast.online/md-jwks"
 }
